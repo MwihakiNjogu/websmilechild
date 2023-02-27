@@ -43,7 +43,7 @@ html {
 }
 
 body {
-    color:#d218b2;
+    color: #0c010a;
     font-size: 14px;
     font-family: Poppins;
     line-height: 1.80857;
@@ -231,7 +231,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-image: url(../img/banner-bg.png);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -426,7 +426,7 @@ button {
     position: absolute;
     width: 100px;
     height: 100px;
-    background-image: url(../images/arrow-1.png);
+    background-image: url(../img/arrow-1.png);
     left: 100px;
     right: initial;
     top: 0px;
@@ -437,7 +437,7 @@ button {
     position: absolute;
     width: 100px;
     height: 100px;
-    background-image: url(../images/arrow-1.png);
+    background-image: url(../img/arrow-1.png);
     left: initial;
     right: 0px;
     bottom: 0px;
@@ -475,7 +475,7 @@ button {
 .design_section {
     width: 100%;
     float: left;
-    background-image: url(../images/blog-bg.png);
+    background-image: url(../img/blog-bg.png);
     height: auto;
     background-size: cover;
     background-repeat: no-repeat;
